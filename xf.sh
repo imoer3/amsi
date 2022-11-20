@@ -2,7 +2,7 @@
 ##
 
 # Set ARG
-UUID=4bb18f57-ee20-493b-a934-d7ea09054001
+UUID=7a3a2336-382f-40e9-a523-7a1812d7f1be
 #ARCH="64"
 cat <<EOF >/etc/v2ray/config.json
 {
